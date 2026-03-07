@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hitha
 # 💫 About Me:
-3rd year ISE Student <br><br><br>🌱 Currently learning DSA and implementing AI into my projects
+3rd year ISE Student <br>🌱 Currently learning DSA and implementing AI into my projects
 
 
 ## 🌐 Socials:
