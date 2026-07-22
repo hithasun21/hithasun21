@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hitha
+# Hey there 👋 I'm Hitha
 ## 💫 About Me
 Final year ISE Student <br>🌱 Currently learning DSA and implementing AI into my projects
 
